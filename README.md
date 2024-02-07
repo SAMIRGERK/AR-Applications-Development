@@ -7,7 +7,7 @@ AR Application Development: Provide resources, tutorials, and code samples for d
 
 Markerless AR Tracking: Investigate markerless AR tracking techniques that enable robust and accurate tracking of real-world objects or environments. Develop algorithms or frameworks for SLAM (Simultaneous Localization and Mapping) to provide seamless AR experiences without the need for predefined markers.
 
-3D Object Recognition and Tracking: Focus on techniques for recognizing and tracking 3D objects in real-time using computer vision and machine learning algorithms. Develop methods for detecting objects in the environment and overlaying virtual content with accurate alignment and stability.
+3D Object Recognition and Tracking: Focus on techniques for recognizing and tracking 3D objects in real-time using computer vision and machine learning algorithms. Develop methods for detecting objects in the environment and overlaying virtual content with accurate alignment & stability.
 
 Interaction and User Interface: Explore intuitive and natural ways of interacting with AR content. Develop frameworks or libraries that provide gesture recognition, voice commands, or haptic feedback to enhance user engagement and immersion.
 
